@@ -20,5 +20,19 @@
 <strong>Output:</strong>[[0,0,0,0],[0,4,5,0],[0,3,1,0]]
 </pre>
 
+<p><strong class="Constraints:">Constraints:</strong></p>
+<ul>
+    <li><code>m == matrix.length</code></li>
+    <li><code>n == matrix[0].length</code></li>
+    <li><code>1 <= m, n <= 200</code></li>
+    <li><code>-2<sup>31</sup> <= matrix[i][j] <= 2<sup>31</sup> - 1</code></li>
+</ul>
+
+<p><strong class="Follow up">Follow up:</strong></p>
+<ul>
+    <li>A straightforward solution using <code>O(mn)</code> space is probably a bad idea.</li>
+    <li>A simple improvement uses <code>O(m + n)</code> space, but still not the best solution.</li>
+    <li>Could you devise a constant space solution?</li>
+</ul>
+
 </body>
-</html>
