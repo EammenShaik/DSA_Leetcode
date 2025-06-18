@@ -8,7 +8,6 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
 <pre>
 <strong>Input:</strong> nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
 <strong>Output:</strong> [1,2,2,3,5,6]
@@ -17,7 +16,6 @@ The result of the merge is [1,2,2,3,5,6] with the underlined elements coming fro
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-
 <pre>
 <strong>Input:</strong> nums1 = [1], m = 1, nums2 = [], n = 0
 <strong>Output:</strong> [1]
@@ -27,7 +25,6 @@ The result of the merge is [1].
 
 
 <p><strong class="example">Example 3:</strong></p>
-
 <pre>
 <strong>Input:</strong> nums1 = [0], m = 0, nums2 = [1], n = 1
 <strong>Output:</strong> [1]
@@ -36,5 +33,16 @@ The result of the merge is [1].
 Note that because m = 0, there are no elements in nums1. The 0 is only there to ensure the merge result can fit in nums1.
 </pre>
 
+<p>&nbsp;</p>
+<p><strong class="Constraints">Constraints:</strong></p>
+<ul>
+    <li><code>nums1.length == m + n</code></li>
+    <li><code>nums2.length == n</code></li>
+    <li><code>0 <= m, n <= 200</code></li>
+    <li><code>1 <= m + n <= 200</code></li>
+    <li><code>-10<sup>9</sup> <= nums1[i], nums2[j] <= 10<sup>9</sup></code></li>
+</ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong> Can you come up with an algorithm that runs in <code>O(m + n)</code> time?</p>
 </body>
-</html>
