@@ -1,7 +1,7 @@
 <body>
     <h3>LeetCode</h3>
     <h2><a href="https://leetcode.com/problems/plus-one/description/">Plus One</a></h2> 
-    <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
+    <img src='https://img.shields.io/badge/DIFFICULTY-EASY-green' alt='Difficulty: Easy' /><hr>
     <p>You are given a <strong>large integer</strong> represented as an integer array <code>digits</code>, where each <code>digits[i]</code> is the <code>i<sup>th</sup></code> digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading <code>0</code>'s.</p>
     <p>Increment the large integer by one and return <em>the resulting array of digits</em>.</p>
 
