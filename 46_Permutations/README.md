@@ -1,7 +1,7 @@
 <body>
   <h3>LeetCode</h3>
   <h2><a href="https://leetcode.com/problems/permutations/">Permutations</a></h2>
-  <img src='https://img.shields.io/badge/Difficulty-Medium-yellow'><hr>
+  <img src='https://img.shields.io/badge/DIFFICULTY-MEDIUM-yellow'><hr>
   <p>Given an array <code>nums</code> of distinct integers, return all the possible permutations. You can return the answer in <strong>any order</strong>.</p>
 
   <p>&nbsp;</p>
