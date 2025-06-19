@@ -1,7 +1,7 @@
 <body>
     <h3>LeetCode</h3>
     <h2><a href="https://leetcode.com/problems/merge-sorted-array/description/">Merge Sorted Array</a></h2> 
-    <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
+    <img src='https://img.shields.io/badge/DIFFICULTY-EASY-green' alt='Difficulty: Easy' /><hr>
     <p>You are given two integer arrays <code>nums1</code> and <code>nums1</code>,sorted in <strong>non-decreasing order</strong>, and two integers <code>m</code> and <code>n</code>, representing the number of elements in <code>nums1</code> and <code>nums2</code> respectively.</p>
     <p><strong>Merge</strong> <code>nums1</code> and <code>nums2</code> into a single array sorted in <strong>non-decreasing order.</strong>.</p>
     <p>The final sorted array should not be returned by the function, but instead be <em>stored inside the array</em> <code>nums1</code>. To accommodate this, <code>nums1</code> has a length of <code>m+n</code>, where the first <code>m</code> elements denote the elements that should be merged, and the last <code>n</code> elements are set to <code>0</code> and should be ignored. <code>nums2</code> has a length of <code>n</code>.</p>
