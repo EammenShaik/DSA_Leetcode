@@ -26,6 +26,7 @@
   </pre>
   <p>If all assertions pass, then your solution will be <strong>accepted</strong>.</p>
 
+  <p>&nbsp;</p>
   <p><strong class="Eaxmaple">Example 1</strong></p>
   <pre>
     <strong>Input:</strong> nums = [3,2,2,3], val = 3
@@ -43,6 +44,7 @@
     It does not matter what you leave beyond the returned k (hence they are underscores).
   </pre>
 
+  <p>&nbsp;</p>
   <p><strong class="Constraints:">Constraints:</strong></p>
   <ul>
     <li><code>0 <= nums.length <= 100</code></li>
