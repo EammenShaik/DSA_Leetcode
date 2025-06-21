@@ -18,4 +18,15 @@ After sorting, it becomes [0,1,9,16,100].
 <strong>Output:</strong> [4,9,9,49,121]
 </pre>
 
+<p>&nbsp;</p>
+<p><strong class="Constraints">Constraints:</strong></p>
+<ul>
+  <li><code>1 <= nums.length <= 10<sup>4</sup></code></li>
+  <li><code>-10<sup>4</sup> <= nums[i] <= 10<sup>4</sup></code></li>
+  <li><code>nums</code> is sorted in <strong>non-decreasing</strong> order.</li>
+</ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong> Squaring each element and sorting the new array is very trivial, could you find an <code>0(n)</code> solution using a different approach?</p>
+
 </body>
