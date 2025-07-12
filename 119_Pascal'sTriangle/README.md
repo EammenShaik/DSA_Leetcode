@@ -1,6 +1,7 @@
 <body>
   <h3>LeetCode</h3>
   <h2><a href="https://leetcode.com/problems/pascals-triangle-ii/">Pascal's Triangle II</a></h2>
+  <img src="https://img.shields.io/badge/DIFFICULTY-EASY-green">
   <p>Given an integer <code>rowIndex</code>, return the <code>rowIndex<sup>th</sup></code> <strong>(0-indexed)</strong> row of the       <strong>Pascal's triangle</strong>.</p>
   <p>In <strong>Pascal's triangle</strong>, each number is the sum of the two numbers directly above it as shown:</p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif">
