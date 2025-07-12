@@ -1,6 +1,7 @@
 <body>
   <h3>LeetCode</h3>
   <h2><a href="https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/">Maximum Difference Between Increasing Elements</a></h2>
+  <img src="https://img.shields.io/badge/DIFFICULTY-EASY-green">
   <p>Given a <strong>0-indexed</strong> integer array <code>nums</code> of size <code>n</code>, find the <strong>maximum difference</strong> between <code>nums[i]</code> and <code>nums[j]</code> (i.e., <code>nums[j] - nums[i]</code>), such that <code>0 <= i < j < n and nums[i] < nums[j]</code>.</p>
   <p>Return <em>the <strong>maximum difference</strong></em>. If no such <code>i</code> and <code>j</code> exists, return <code>-1</code>.</p>
 
