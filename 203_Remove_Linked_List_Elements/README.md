@@ -1,6 +1,7 @@
 <body>
   <h3>LeetCode</h3>
   <h2><a href="https://leetcode.com/problems/remove-linked-list-elements/description/">Remove Linked List Elements</a></h2> 
+  <img src="https://img.shields.io/badge/DIFFICULTY-EASY-green">
   <p>Given the <code>head</code> of a linked list and an integer <code>val</code>, remove all the nodes of the linked list that has <code>Node.val == val</code>, and return <em>the new head</em>.</p>
 
   <p>&nbsp;</p>
