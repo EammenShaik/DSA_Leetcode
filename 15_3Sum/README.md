@@ -1,6 +1,7 @@
 <body>
   <h3>LeetCode</h3>
   <h2><a href="https://leetcode.com/problems/3sum/description/">3Sum</a></h2>
+  <img src="https://img.shields.io/badge/DIFFICULTY-MEDIUM-yellow">
   <p>Given an integer array nums, return all the triplets <code>nums[i], nums[j], nums[k]]</code> such that <code>i != j</code>, <code>i != k</code>, and <code>j != k</code>, and <code>nums[i] + nums[j] + nums[k] == 0</code>.</p>
   <p>Notice that the solution set must not contain duplicate triplets.</p>
   
