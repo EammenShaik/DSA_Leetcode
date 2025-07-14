@@ -1,6 +1,7 @@
 <body>
   <h3>LeetCode</h3>
   <h2><a href="https://leetcode.com/problems/valid-anagram/description/">Valid Anagram</a></h2> 
+  <img src="https://img.shields.io/badge/DIFFICULTY-EASY-green">
   <p>Given two strings <code>s</code> and <code>t</code>, return <code>true</code> if <code>t</code> is an anagram of <code>s</code>, and <code>false</code> otherwise.</p>
   
   <p>&nbsp;</p>
