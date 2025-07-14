@@ -1,6 +1,7 @@
 <body>
   <h3>LeetCode</h3>
   <h2><a href="https://leetcode.com/problems/reverse-linked-list/description/">Reverse Linked List</a></h2> 
+  <img src="https://img.shields.io/badge/DIFFICULTY-EASY-green">
   <p>Given the <code>head</code> of a singly linked list, reverse the list, and return <em>the reversed list</em>.</p>
 
   <p>&nbsp;</p>
