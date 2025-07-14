@@ -1,6 +1,7 @@
 <body>
   <h3>LeetCode</h3>
   <h2><a href="https://leetcode.com/problems/merge-two-sorted-lists/description/">Merge Two Sorted Lists</a></h2> 
+  <img src="https://img.shields.io/badge/DIFFICULTY-EASY-green">
   <p>You are given the heads of two sorted linked lists <code>list1</code> and <code>list2</code>.</p>
   <p>Merge the two lists into one <b>sorted</b> list. The list should be made by splicing together the nodes of the first two lists.</p>
   <p>Return <i>the head of the merged linked list</i>.</p>
