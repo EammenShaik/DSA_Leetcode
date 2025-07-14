@@ -1,6 +1,7 @@
 <body>
   <h3>LeetCode</h3>
   <h2><a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a></h2>
+  <img src="https://img.shields.io/badge/DIFFICULTY-MEDIUM-yellow">
   <p>Determine if a <code>9 x 9</code> Sudoku board is valid. Only the filled cells need to be validated <strong>according to the following rules:</strong></p>
   <ol>
     <li>Each row must contain the digits <code>1-9</code> without repetition.</li>
