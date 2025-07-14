@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/15768e0f-6de6-481f-becb-efb3fe904522)</head>
 <body>
   <h3>LeetCode</h3>
   <h2><a href="https://leetcode.com/problems/palindrome-linked-list/description/">Palindrome Linked List Elements</a></h2> 
+  <img src="https://img.shields.io/badge/DIFFICULTY-EASY-green">
   <p>Given the <code>head</code> of a singly linked list, return <code>true</code> <i>if it is a palindrome or</i> <code>false</code> <i>otherwise</i>.</p>
 
   <p>&nbsp;</p>
